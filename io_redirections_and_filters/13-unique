@@ -1,3 +1,2 @@
 #!/bin/bash
-# Read from stdin, sort, find unique lines that occur exactly once, and print them
 sort | uniq -u
