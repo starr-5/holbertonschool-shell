@@ -1,2 +1,2 @@
-f#!/bin/bash
+#!/bin/bash
 find hello -maxdepth 0 -user guillaume -exec chown vincent hello \;i
